@@ -4,7 +4,7 @@ This is a simple React component that allows you to load more posts when you cli
 
 ## Demo
 
-[https://emanuelefavero.github.io/react-load-more/](https://emanuelefavero.github.io/react-load-more/)
+[https://react-load-more-seven.vercel.app/](https://react-load-more-seven.vercel.app/)
 
 #### Screenshot
 

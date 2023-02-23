@@ -7,3 +7,7 @@ This is a simple React component that allows you to load more posts when you cli
 - clone the repo and `cd` into it
 - run `npm install`
 - run `npm run dev`
+
+## License
+
+- [MIT](LICENSE.md)

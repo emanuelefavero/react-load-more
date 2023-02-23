@@ -2,6 +2,10 @@
 
 This is a simple React component that allows you to load more posts when you click on a button.
 
+## Demo
+
+[https://emanuelefavero.github.io/react-load-more/](https://emanuelefavero.github.io/react-load-more/)
+
 #### Screenshot
 
 <img src="screenshot.png" alt="screenshot" width="300">
